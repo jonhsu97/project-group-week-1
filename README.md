@@ -28,8 +28,8 @@ below: members in their formed groups
 #### Thursday, October 12th, 2017
 The novice club meeting kicked off with an introduction to data science. The novice members learned what data science was, and its applications in various academic fields. Then members were presented with the goal of the novice group: to develop skills that enabled them to complete their own projects. After grasping an understanding of data science and the nature of the novice club meetings, members were then introduced to [R](https://www.r-project.org/) and [Python](https://www.python.org/) - two of the most popular programming languages used in data science. <br>
 
-Below: novice group members learning about [] <br>
-(.img) <br>
+Below: novice group members learning to set up GitHub <br>
+![](images/novicemeeting.jpg) <br>
 
 Members chose which language to learn and got right to work on [DataCamp](https://www.datacamp.com/). (DataCamp is a learning resource provided to all members of the club, helping novice members develop skills in R and Python.) The novice members finished their first meeting having set up accounts on DataCamp, beginning their journey into data science. 
 
