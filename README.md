@@ -1,9 +1,9 @@
-# DS Meeting Recap:  Week 1 
+# Project Meeting Recap:  Week 1 
 
 ![](images/advmeeting.jpg)
 
-## Introduction to DS Meetings 
-Greetings! Hope everyone's quarter has been off to a great start! Campus organizations have started back up - and the Data Science club is no exception. Last week our club held its first official meetings of the quarter. The advanced meeting on Monday, October 9th, 2017 witnessed a turnout of more than 55 people. The novice meeting on Thursday, October 12th, 2017 had more than 60+collab# people in attendance. 
+## Project Group Meetings 
+Greetings! Hope everyone's quarter has been off to a great start! Campus organizations have started back up - and the Data Science club is no exception. Last week our club held its first official meetings of the quarter. The advanced meeting on Monday, October 9th, 2017 witnessed a turnout of more than 55 people. The novice meeting on Thursday, October 12th, 2017 had more than 80+ people in attendance. 
 
 ## Advanced Meeting 
 #### Monday, October 9th, 2017
