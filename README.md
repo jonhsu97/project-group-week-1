@@ -9,9 +9,6 @@ Greetings! Hope everyone's quarter has been off to a great start! Campus organiz
 #### Monday, October 9th, 2017
 Starting off the advanced meeting, members learned how the meetings would proceed each week and were also introduced to the club's process of completing projects. Members were asked to think of project ideas, which they then presented to the rest of the club. Volunteers then pitched their project ideas to the club, trying to get members to join their group. As ideas were exchanged, groups began to form as members teamed together to tackle their project ideas. <br>
 
-Below: a list of project ideas presented on Monday <br>
-**(.img)** <br>
-
 After members formed groups and exchanged contact information, Timothy Nguyen, an officer of the club, gave a run-down of how the projects would go. He presented a guideline for completing projects, which included aspects such as: <br>
 
 - **Documenting** project steps 
