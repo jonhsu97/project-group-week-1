@@ -1,31 +1,27 @@
-# Project Meeting Recap:  Week 1 
+# Project Meeting Recap:  Week 1
 
 ![](images/advmeeting.jpg)
 
-## Project Group Meetings 
-Greetings! Hope everyone's quarter has been off to a great start! Campus organizations have started back up - and the Data Science club is no exception. Last week our club held its first official meetings of the quarter. The advanced meeting on Monday, October 9th, 2017 witnessed a turnout of more than 55 people. The novice meeting on Thursday, October 12th, 2017 had more than 80 people in attendance. 
+## Project Group Meetings
+Greetings, everyone! We hope everyone's quarter has been off to a great start! During Week 2, our club held its first official project group meetings of the quarter. Our project groups are split into two levels; The novice group meetings, led by Jason Freeberg and Raul Eulogio, are intended for those who have never completed a data science project. On the other hand, the advanced group meetings, led by Samantha Lee and Timothy Nguyen, are meant for those who wish to complete projects of their own choosing. The advanced group, which is led meets on Mondays saw a turnout of more than 55 people while the novice group which meets on Thursdays had more than 80 people in attendance during their first weeks.
 
-## Advanced Meeting 
+## Advanced Meeting
 #### Monday, October 9th, 2017
-Starting off the advanced meeting, members learned how the meetings would proceed each week and were also introduced to the club's process of completing projects. Members were asked to think of project ideas, which they then presented to the rest of the club. Volunteers then pitched their project ideas to the club, trying to get members to join their group. As ideas were exchanged, groups began to form as members teamed together to tackle their project ideas. <br>
+The advanced project meeting began with members being introduced to the club's methods involved in the progression of projects. After all the formalities, members were given time to brainstorm and discuss project ideas with their peers. <br>
 
-After members formed groups and exchanged contact information, Timothy Nguyen, an officer of the club, gave a run-down of how the projects would go. He presented a guideline for completing projects, which included aspects such as: <br>
+Volunteers then proposed their projects to the club with the goal of recruiting teammates. This quarter, members generated exciting project ideas including, but not limited to chess move classification, music playlist generation, and NBA playoff outcome prediction. Additionally, less related to data science, but just as welcomed at our project group was a team working on drone control via hand sensors! <br>
 
-- **Documenting** project steps 
-- **Setting** objectives for each week 
-- **Encountering** obstacles 
-- **Publishing** projects on [GitHub](github.com) and [inertia7](inertia7.com) 
+After members settled into groups and exchanged contact information Timothy gave a run-down of how the projects would progress. He presented a guideline for completing projects, which highlighted concepts such as project planning, progress documentation, obstruction removal, and project publication. <br>
 
-The advanced members finished off their first meeting with their project ideas decided, their groups formed, and their objectives set for next week's meeting. 
+The advanced members finished off their first meeting with their project ideas decided, teams formed, and objectives set for next week's meeting.
 
-## Novice Meeting 
+## Novice Meeting
 #### Thursday, October 12th, 2017
-The novice club meeting kicked off with an introduction to data science. The novice members learned what data science was, and its applications in various academic fields. Then members were presented with the goal of the novice group: to develop skills that enabled them to complete their own projects. After grasping an understanding of data science and the nature of the novice club meetings, members were then introduced to [R](https://www.r-project.org/) and [Python](https://www.python.org/) - two of the most popular programming languages used in data science. <br>
+The first novice meeting kicked off with an introduction to data science and its applications in various fields. Then, members were presented with the purpose and method of the novice group: to walk attendees through the process of data science project by following along with already-done projects. Once members had a clearer understanding of data science and the nature of the novice group, they were then introduced to [R](https://www.r-project.org/) and [Python](https://www.python.org/) - the two programming languages recommended by the club for personal data science projects. <br>
 
-Below: novice group members learning how to use a text editor <br>
 ![](images/novicemeeting.jpg) <br>
+Above: novice group members getting familiar with Atom, a popular text editor <br>
 
-Members chose which language to learn and got right to work on [DataCamp](https://www.datacamp.com/). (DataCamp is a learning resource provided to all members of the club, helping novice members develop skills in R and Python.) The novice members finished their first meeting having set up accounts on DataCamp, beginning their journey into data science. 
+Members chose which language to learn and started with the basics by completing [DataCamp](https://www.datacamp.com/) exercises. (DataCamp is a club sponsor which provides a data science learning resource for all members.) The novice members finished their first meeting having set up accounts on DataCamp, beginning their journey into data science.
 
-This wraps it up for the first club meetings of the quarter! Club meetings are held twice a week, on Mondays and Thursdays from 7:00 p.m. to 9:00 p.m. Advanced members meet on Monday, while novice members meet on Thursday. Meetings are held in SSMS and the Collaboratory, located in the Davidson Library. For more information on meetings, be sure to check out our [Facebook](https://www.facebook.com/DataScienceUCSB/) page! 
- 
+This wraps it up for the first club meetings of the quarter! Club meetings are held twice a week, on Mondays and Thursdays from 7:00 p.m. to 9:00 p.m. Advanced members meet on Monday, while novice members meet on Thursday. Meetings are held in SSMS and the Collaboratory, located in the Davidson Library. For more information on meetings, be sure to check out our [Facebook](https://www.facebook.com/DataScienceUCSB/) page!
